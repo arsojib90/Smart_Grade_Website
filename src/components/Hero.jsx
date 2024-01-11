@@ -13,7 +13,7 @@ export default function Home() {
               alt="Banner"
             />
             <div>
-              <h1 className="text-4xl lg:text-[70px] font-bold leading-[1.1] mb-8">
+              <h1 className="text-4xl lg:text-[56px] font-bold leading-[1.1] mb-8">
                 The Future of Learning starts with students at the center
               </h1>
               <a

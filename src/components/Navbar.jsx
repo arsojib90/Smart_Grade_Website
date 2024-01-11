@@ -6,11 +6,11 @@ export default function Navbar() {
       <nav className="py-6">
         <div className="container mx-auto flex items-center justify-between gap-x-6">
           <a href="/">
-            <img className="h-10 lg:h-20" src={Logo} alt="Lws" />
+            <img className="h-10" src={Logo} alt="Lws" />
           </a>
 
           <a
-            className="px-5 py-2 hover:bg-slate-700 h-10 bg-[#172227] rounded-[44px]"
+            className="px-5 py-2 hover:bg-slate-700  bg-[#172227] rounded-[44px]"
             href="#"
           >
             Get Admission
